@@ -8,7 +8,7 @@ I do coding things occasionally.
 
 🌱 **Currently learning** Rust
 
-🕐 **Time zone:** EST (UTC-5)
+🕐 **Time zone:** EST (UTC-4)
 
 ![tibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibinonest&theme=github_dark&show_icons=true&count_private=true)
 
