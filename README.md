@@ -8,7 +8,7 @@ I'm Tibs, I do coding things occasionally.
 
 - 😄 **Pronouns:** [they/them](https://en.pronouns.page/@tibs)
 
-- 📫 **Contact me** on Discord @tibs#3721, on Mastadon [@tibs@tech.lgbt](https://tech.lgbt/@tibs), or on Twitter [@TibiNonEst](https://twitter.com/TibiNonEst)
+- 📫 **Contact me** on Discord @tibs#0001 or on Mastadon [@tibs@tech.lgbt](https://tech.lgbt/@tibs)
 
 - 🕐 **Time zone:** EDT (UTC-4)
 
