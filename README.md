@@ -6,7 +6,7 @@ I'm Tibs, I do coding things occasionally.
 
 - 🌱 **Currently learning** Java, Rust, anything else I can
 
-- 📫 **Contact me** on Discord at `tibs#0001` or on the Fediverse at [tibs@blobfox.coffee](https://blobfox.coffee/@tibs)
+- 📫 **Contact me** on Discord at `tibs#0001` or on the Fediverse at <a rel="me" href="https://blobfox.coffee/@tibs">tibs@blobfox.coffee</a>
 
 - 😄 **Pronouns:** [they/them](https://en.pronouns.page/@tibs)
 
